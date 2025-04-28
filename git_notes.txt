@@ -1,0 +1,8 @@
+Git and GitHub Notes
+- Git: A tool to track changes in my code, like saving versions of a story.
+- GitHub: A website to store my code online and share it.
+- Clone: Copy a project from GitHub to my computer.
+- Commit: Save a snapshot of my changes (git add, git commit -m "message").
+- Push: Send my changes to GitHub (git push).
+- Repository: A GitHub folder for my project.
+- I made a repo called ai-agent-projects and pushed hello.py!
